@@ -6,7 +6,7 @@ to "UCI HAR Dataset" folder
 4. Pass the path to "UCI HAR Dataset" folder to the TidySamsungData function. E.g "C:/UCI HAR Dataset"
 5. The function returns a tidy dataset and creates a tidyData.txt in the directory given.
 
-#Analysis Steps
+# Analysis Steps
 1. Read test,training,subject,features and activity files to R
 2. Rename test data set variables with proper names from features file.
 3. Add activity and subject variables to the test data set
